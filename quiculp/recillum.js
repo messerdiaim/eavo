@@ -1,0 +1,3 @@
+function emptyValue() {
+  return;
+}
